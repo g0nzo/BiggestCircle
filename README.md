@@ -1,5 +1,5 @@
 # BiggestCircle
-Finding circle which is containing most good points without bad points
+Finding circle which contains most good points without bad points.
 
-Used technologies:
+<b>Technologies used in project:</b> <br/>
 Java, MVC pattern, genetic algorithm
